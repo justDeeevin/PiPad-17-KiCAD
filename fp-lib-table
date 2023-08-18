@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Blackpill")(type "KiCad")(uri "C:/Users/Devin/Desktop/KiCad/Big Boi Keyboard/kicad_blackpill")(options "")(descr ""))
+  (lib (name "VoidSwitch")(type "KiCad")(uri "C:/Users/Devin/Desktop/KiCad/Big Boi Keyboard/void_switch_kicad/footprints")(options "")(descr ""))
+  (lib (name "PyroLogo")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
+)

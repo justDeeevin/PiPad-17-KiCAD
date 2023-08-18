@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "blackpill_stlink")(type "KiCad")(uri "C:/Users/Devin/Desktop/KiCad/Big Boi Keyboard/kicad_blackpill/blackpill_stlink.kicad_sym")(options "")(descr ""))
+  (lib (name "voidswitch")(type "KiCad")(uri "C:/Users/Devin/Desktop/KiCad/Big Boi Keyboard/void_switch_kicad/symbols/voidswitch.kicad_sym")(options "")(descr ""))
+  (lib (name "49e")(type "KiCad")(uri "C:/Users/Devin/Desktop/KiCad/Big Boi Keyboard/void_switch_kicad/symbols/49e.kicad_sym")(options "")(descr ""))
+)
